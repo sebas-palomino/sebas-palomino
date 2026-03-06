@@ -3,7 +3,7 @@
 </div>
 <div aling="center">
     <hi> Hola mi nombre es Sebastian Palomino
-        <img windth="50px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
+        <img width="50px" src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" alt="" srcset="">
     </hi>
 </div>
 <div aling="center">
@@ -15,5 +15,5 @@
 </div>
 
 <footer>
-    <img windth="100%" height="90px" src="https://i.pinimg.com/1200x/d4/3b/6d/d43b6d4b3f276104585c61c58555b8d4.jpg">
+    <img width="100%" height="90px" src="https://i.pinimg.com/1200x/d4/3b/6d/d43b6d4b3f276104585c61c58555b8d4.jpg">
 </footer>
