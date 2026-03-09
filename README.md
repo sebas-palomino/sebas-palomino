@@ -15,5 +15,5 @@
 </div>
 
 <footer>
-    <img width="100%" height="90px" src="https://i.pinimg.com/1200x/d4/3b/6d/d43b6d4b3f276104585c61c58555b8d4.jpg">
+    <img width="100%" height="110px" src="https://i.pinimg.com/736x/ca/d8/b3/cad8b3daf315fdb09ab28e70c5519f83.jpg">
 </footer>
